@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**Horlanrewajucode/Horlanrewajucode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hello there, Welcome 👋
+I'm a Computer science graduate and also a Software Engineer. I'm passionate about sharing knowledge, documentation, web engineering and others. 
+I'm an Open Source builder and also interested in contributing to Open Source.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:  I’m currently studying at Altschool Africa [School of engineering](https://engineering.altschoolafrica.com/) class of 2024
+- 🌱 I’m currently learning javaScript, Reactjs and Nextjs
+- 🤔 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level)
+- 📫 You can [View my Resume](https://www.linkedin.com/in/olanrewaju-busari-34451b26b/) and contact me by emailing buzareeolanrewaju01@gmail.com 
+- 📫 Here is also my X handle [x(Formaly Twitter)](https://x.com/home)
