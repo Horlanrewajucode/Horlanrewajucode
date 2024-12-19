@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level)
 - 📫 You can [View my Resume](https://www.linkedin.com/in/olanrewaju-busari-34451b26b/) and contact me by emailing buzareeolanrewaju01@gmail.com 
-- 📫 Here is also my X handle [x(Formaly Twitter)](https://x.com/home)
+- 📫 Here is also my X handle [x(Formaly Twitter)](https://x.com/larry_visuals)
