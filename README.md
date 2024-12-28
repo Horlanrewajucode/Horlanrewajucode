@@ -1,6 +1,7 @@
-## Hello there, Welcome 👋
-I'm a Computer science graduate and also a Software Engineer. I'm passionate about sharing knowledge, documentation, web engineering and others. 
+# Hello there; Welcome to my profile👋
+I'm a **Software Engineer** and also a Computer Science graduate. I'm passionate about sharing knowledge, documentation, web engineering and others. 
 I'm an Open Source builder and also interested in contributing to Open Source.
+
 Here are some ideas to get you started:
 
 - 😄 Pronouns: He/Him
