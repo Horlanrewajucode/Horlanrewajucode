@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - 💼 Job interests: Software Engineer, FrontEnd Engineer, or UI Engineer (Intern or Junior level)
 - 📫 You can [View my Resume](https://www.linkedin.com/in/olanrewaju-busari-34451b26b/) and contact me by emailing buzareeolanrewaju01@gmail.com 
 - 📫 Here is also my X handle [x(Formaly Twitter)](https://x.com/larry_visuals)
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Horlanrewajucode&show_icons=true&theme=light)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Horlanrewajucode&layout=compact&theme=light)
