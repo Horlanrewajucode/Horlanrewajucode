@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 📫 You can [View my Resume](https://www.linkedin.com/in/olanrewaju-busari-34451b26b/) and contact me by emailing buzareeolanrewaju01@gmail.com 
 - 📫 Here is also my X handle [x(Formaly Twitter)](https://x.com/larry_visuals)
 
-#### My Top Languages
+#### 🧠 My Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Horlanrewajucode&layout=compact) 
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Horlanrewajucode&show_icons=true&theme=dark)
 #### Languages i learnt
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
